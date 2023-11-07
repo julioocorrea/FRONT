@@ -1,0 +1,21 @@
+.central.informational {
+    border-color: grey;
+}
+
+.central.warning {
+    border-color: yellow;
+}
+
+.central.danger {
+    border-color: red;
+}
+
+.central{
+    border: 5px solid;
+    margin-top: 2%;
+}
+
+p {
+  margin-left: 1%;
+  font-weight: bold;  
+}
